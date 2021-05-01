@@ -13,18 +13,20 @@
 
 <h3>SKILLS</h3><hr>
 <ul>
-	<li>HTML - CSS - JS - JQuery - Bootstrap - AJAX - XML - JSON</li>
+	<li>HTML - CSS - JS - JQuery - ReactJS - Bootstrap - AJAX - XML - JSON</li>
 	<li>Python</li>
 	<li>Numpy - Pandas - Scipy</li>
 	<li>MATLAB</li>
 	<li>Scikit-Learn</li>
 	<li>Tensorflow - Keras - PyTorch - NLTK</li>
+	<li>NetworkX - Snap.py</li>
 	<li>Django - Flask</li>
-	<li>REST API</li>
-	<li>OpenCV</li>
-	<li>BeautifulSoup</li>
+	<li>REST API - FastAPI</li>
+	<li>CV2 - Skimage</li>
+	<li>BeautifulSoup - Selenium</li>
 	<li>Matplotlib - Seaborn</li>
 	<li>Weka</li>
-	<li>SQL</li>
+	<li>Linux/Bash</li>
+	<li>SQL - PyMongo</li>
 </ul>
 <br>
