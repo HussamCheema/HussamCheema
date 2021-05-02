@@ -3,7 +3,7 @@
 
 <h1>HUSSAM CHEEMA</h1>
 <h5>Email: hussam7102@gmail.com</h5>
-<h5>Website: https://hussamcheema.hashnode.dev/</h5>
+<h5>Website: https://pysudo.com/</h5>
 <h5>Linkedin Profile: https://www.linkedin.com/in/hussam-cheema/</h5>
 
 <h3>EDUCATION</h3><hr>
