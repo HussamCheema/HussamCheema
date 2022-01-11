@@ -2,6 +2,7 @@
 <h5>Email: hussam7102@gmail.com</h5>
 <h5>My Portfolio: https://hussamcheema.github.io/my-portfolio/</h5>
 <h5>My Blog: https://hussamcheema.github.io/my-blog/</h5>
+<h5>My Linkedin Profile: https://linkedin.com/in/hussam-cheema</h5>
 
 <br>
 
