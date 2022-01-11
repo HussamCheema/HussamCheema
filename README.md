@@ -3,6 +3,7 @@
 <h5>My Portfolio: https://hussamcheema.github.io/my-portfolio/</h5>
 <h5>My Blog: https://hussamcheema.github.io/my-blog/</h5>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussamCheema)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>EDUCATION</h3><hr>
 <ul>
@@ -31,4 +32,3 @@
 </ul>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussamCheema)](https://github.com/anuraghazra/github-readme-stats)
