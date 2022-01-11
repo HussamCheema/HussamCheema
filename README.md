@@ -3,19 +3,6 @@
 <h5>My Portfolio: https://hussamcheema.github.io/my-portfolio/</h5>
 <h5>My Blog: https://hussamcheema.github.io/my-blog/</h5>
 
-[1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
 
 <h3>EDUCATION</h3><hr>
 <ul>
@@ -43,3 +30,5 @@
 	<li>SQL - PyMongo</li>
 </ul>
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussamCheema)](https://github.com/anuraghazra/github-readme-stats)
