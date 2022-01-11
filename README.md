@@ -4,6 +4,12 @@
 <h5>My Blog: https://hussamcheema.github.io/my-blog/</h5>
 <h5>My Linkedin Profile: https://linkedin.com/in/hussam-cheema</h5>
 
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+![version :02.01.2022](https://img.shields.io/badge/version-02.01.2022-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=HussamCheema&color=red)&nbsp;
+[![GitHub souravjain540](https://img.shields.io/github/followers/HussamCheema?label=follow&style=social)](https://github.com/HussamCheema)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussamCheema&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
