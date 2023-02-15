@@ -22,21 +22,25 @@
 
 <h3>SKILLS</h3><hr>
 <ul>
-	<li>HTML - CSS - JS - JQuery - ReactJS - Bootstrap - AJAX - XML - JSON</li>
+	<li>HTML - CSS - JS - JQuery - Bootstrap - AJAX - XML - JSON</li>
 	<li>Python</li>
 	<li>Numpy - Pandas - Scipy</li>
 	<li>MATLAB</li>
-	<li>Scikit-Learn</li>
-	<li>Tensorflow - Keras - PyTorch - NLTK</li>
+	<li>Scikit-Learn - XGBoost</li>
+	<li>Keras - PyTorch - NLTK</li>
 	<li>NetworkX - Snap.py</li>
-	<li>Django - Flask</li>
-	<li>REST API - FastAPI</li>
-	<li>CV2 - Skimage</li>
+	<li>Django - Flask - FastAPI</li>
+	<li>CV2 - Skimage - Pillow</li>
 	<li>BeautifulSoup - Selenium</li>
 	<li>Matplotlib - Seaborn</li>
 	<li>Weka</li>
 	<li>Linux/Bash</li>
-	<li>SQL - PyMongo</li>
+	<li>SQL - NoSQL</li>
+	<li>AWS - GCP - Azure</li>
+	<li>ELK Stack</li>
+	<li>Docker - Kubernetes - Kafka - RabbitMQ</li>
+	<li>InfluxDB - Flux - InfluxQL - Prophet</li>
+	<li>Grafana - PowerBI - Matplotlib - Seaborn</li>
 </ul>
 <br>
 
