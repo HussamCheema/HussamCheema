@@ -22,12 +22,12 @@
 
 <h3>SKILLS</h3><hr>
 <ul>
-	<li>HTML - CSS - JS - JQuery - Bootstrap - AJAX - XML - JSON</li>
+	<li>HTML - CSS - JS - JQuery - Bootstrap - XML - JSON</li>
 	<li>Python</li>
 	<li>Numpy - Pandas - Scipy</li>
-	<li>MATLAB</li>
 	<li>Scikit-Learn - XGBoost</li>
-	<li>Keras - PyTorch - NLTK</li>
+	<li>Keras - PyTorch</li>
+	<li>NLTK - Spacy</li>
 	<li>NetworkX - Snap.py</li>
 	<li>Django - Flask - FastAPI</li>
 	<li>CV2 - Skimage - Pillow</li>
@@ -36,16 +36,16 @@
 	<li>Weka</li>
 	<li>Linux/Bash</li>
 	<li>SQL - NoSQL</li>
-	<li>AWS - GCP - Azure</li>
+	<li>AWS - [EC2, S3, IAM, RDS, CloudWatch, DMS, Glue, Redshift, Lambda, SageMaker]</li>
 	<li>ELK Stack</li>
 	<li>Docker - Kubernetes - Kafka - RabbitMQ</li>
 	<li>InfluxDB - Flux - InfluxQL - Prophet</li>
-	<li>Grafana - PowerBI - Matplotlib - Seaborn</li>
+	<li>Grafana - PowerBI - Matplotlib - Seaborn - Quicksight</li>
+	<li>MATLAB</li>
 </ul>
 <br>
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://twitter.com/badbit_0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/hussam-cheema"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:hussam7102@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
